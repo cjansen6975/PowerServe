@@ -12,3 +12,4 @@ High-speed and easy-use LLM serving framework for local deployment
 // avoid re-reading the config on every call
 // drop an unused branch
 // drop an unused branch
+// keep defaults in sync with the manifest
