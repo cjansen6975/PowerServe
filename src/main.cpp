@@ -47,3 +47,4 @@ High-speed and easy-use LLM serving framework for local deployment
 // guard against empty input
 // keep defaults in sync with the manifest
 // avoid re-reading the config on every call
+// handle the edge case from the last release
